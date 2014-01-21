@@ -15,35 +15,125 @@
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       <url>
         <loc>http://www.brandymint.com/demo.html</loc>
-        <lastmod>2014-01-17T00:00:00+04:00</lastmod>
+        <lastmod>2014-01-21T00:00:00+04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
         <loc>http://www.brandymint.com/error.html</loc>
-        <lastmod>2014-01-17T00:00:00+04:00</lastmod>
+        <lastmod>2014-01-21T00:00:00+04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
         <loc>http://www.brandymint.com/index.html</loc>
-        <lastmod>2014-01-17T00:00:00+04:00</lastmod>
+        <lastmod>2014-01-21T00:00:00+04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://www.brandymint.com/superpes_iphone@2x_0000_commands-cards.html</loc>
-        <lastmod>2014-01-17T00:00:00+04:00</lastmod>
+        <loc>http://www.brandymint.com/fairprice_iphone_design.pdf.html</loc>
+        <lastmod>2014-01-21T00:00:00+04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://www.brandymint.com/superpes_iphone@2x_0001_command-screen.html</loc>
-        <lastmod>2014-01-17T00:00:00+04:00</lastmod>
+        <loc>http://www.brandymint.com/fairprice_iphone_design.html</loc>
+        <lastmod>2014-01-21T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://www.brandymint.com/fairprice_iphone_design10.html</loc>
+        <lastmod>2014-01-21T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://www.brandymint.com/fairprice_iphone_design11.html</loc>
+        <lastmod>2014-01-21T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://www.brandymint.com/fairprice_iphone_design12.html</loc>
+        <lastmod>2014-01-21T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://www.brandymint.com/fairprice_iphone_design13.html</loc>
+        <lastmod>2014-01-21T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://www.brandymint.com/fairprice_iphone_design14.html</loc>
+        <lastmod>2014-01-21T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://www.brandymint.com/fairprice_iphone_design15.html</loc>
+        <lastmod>2014-01-21T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://www.brandymint.com/fairprice_iphone_design16.html</loc>
+        <lastmod>2014-01-21T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://www.brandymint.com/fairprice_iphone_design2.html</loc>
+        <lastmod>2014-01-21T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://www.brandymint.com/fairprice_iphone_design3.html</loc>
+        <lastmod>2014-01-21T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://www.brandymint.com/fairprice_iphone_design4.html</loc>
+        <lastmod>2014-01-21T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://www.brandymint.com/fairprice_iphone_design5.html</loc>
+        <lastmod>2014-01-21T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://www.brandymint.com/fairprice_iphone_design6.html</loc>
+        <lastmod>2014-01-21T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://www.brandymint.com/fairprice_iphone_design7.html</loc>
+        <lastmod>2014-01-21T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://www.brandymint.com/fairprice_iphone_design8.html</loc>
+        <lastmod>2014-01-21T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://www.brandymint.com/fairprice_iphone_design9.html</loc>
+        <lastmod>2014-01-21T00:00:00+04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
     </urlset>
   </body>
 </html>
-<script src="/javascripts/application.js?1389860753" type="text/javascript"></script>
+<script src="/javascripts/application.js?1390314098" type="text/javascript"></script>
