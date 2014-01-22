@@ -7,16 +7,21 @@ body_class: index
 
 - demo_files = Dir['source/images/demo/*']
 - demo_files.map { |f| f.split('/') }
-.btn-group.btn-group-vertical.btn-block
+-#.btn-group.btn-group-vertical.btn-block
+.row
   - demo_files.each do |l|
     - if l.match(/(png|jpg)/)
       - filename = l.gsub('source/images/demo','').gsub('/','')
       - link = filename.gsub(/\.(png|jpg|pdf)/,'')
-      = link_to "#{filename}", "#{link}.html", class: 'btn btn-lg btn-block btn-link'
+      .index-preview.col-xs-6.col-sm-3
+        = link_to "#{link}.html" do
+          %img{src: l.gsub('source','')}
+      -#= link_to "#{link}.html", class: 'btn btn-lg btn-block btn-link' do
+        = "#{filename}"
 %hr
 .btn-group.btn-group-vertical.btn-block
   - demo_files.each do |l|
     - if l.match(/\./) && !l.match(/(png|jpg)/)
       - filename = l.gsub('source/images/demo','').gsub('/','')
-      = link_to "#{filename}", "#{filename}", class: 'btn btn-lg btn-block btn-link'
+      = link_to "#{filename}", "#{filename}", class: 'btn btn-lg btn-block btn-default'
 
