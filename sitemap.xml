@@ -56,6 +56,12 @@
         <priority>0.5</priority>
       </url>
       <url>
+        <loc>http://www.brandymint.com/soyuzmash_design_desktop_5.html</loc>
+        <lastmod>2014-03-04T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
         <loc>http://www.brandymint.com/soyuzmash_design_mobile_.html</loc>
         <lastmod>2014-03-04T00:00:00+04:00</lastmod>
         <changefreq>monthly</changefreq>
@@ -64,4 +70,4 @@
     </urlset>
   </body>
 </html>
-<script src="/javascripts/application.js?1393920067" type="text/javascript"></script>
+<script src="/javascripts/application.js?1393938650" type="text/javascript"></script>
