@@ -15,61 +15,97 @@
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       <url>
         <loc>http://www.brandymint.com/demo.html</loc>
-        <lastmod>2014-03-04T00:00:00+04:00</lastmod>
+        <lastmod>2014-03-05T00:00:00+04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
         <loc>http://www.brandymint.com/error.html</loc>
-        <lastmod>2014-03-04T00:00:00+04:00</lastmod>
+        <lastmod>2014-03-05T00:00:00+04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
         <loc>http://www.brandymint.com/index.html</loc>
-        <lastmod>2014-03-04T00:00:00+04:00</lastmod>
+        <lastmod>2014-03-05T00:00:00+04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
         <loc>http://www.brandymint.com/soyuzmash_design_desktop_.html</loc>
-        <lastmod>2014-03-04T00:00:00+04:00</lastmod>
+        <lastmod>2014-03-05T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://www.brandymint.com/soyuzmash_design_desktop_10.html</loc>
+        <lastmod>2014-03-05T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://www.brandymint.com/soyuzmash_design_desktop_11.html</loc>
+        <lastmod>2014-03-05T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://www.brandymint.com/soyuzmash_design_desktop_12.html</loc>
+        <lastmod>2014-03-05T00:00:00+04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
         <loc>http://www.brandymint.com/soyuzmash_design_desktop_2.html</loc>
-        <lastmod>2014-03-04T00:00:00+04:00</lastmod>
+        <lastmod>2014-03-05T00:00:00+04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
         <loc>http://www.brandymint.com/soyuzmash_design_desktop_3.html</loc>
-        <lastmod>2014-03-04T00:00:00+04:00</lastmod>
+        <lastmod>2014-03-05T00:00:00+04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
         <loc>http://www.brandymint.com/soyuzmash_design_desktop_4.html</loc>
-        <lastmod>2014-03-04T00:00:00+04:00</lastmod>
+        <lastmod>2014-03-05T00:00:00+04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
         <loc>http://www.brandymint.com/soyuzmash_design_desktop_5.html</loc>
-        <lastmod>2014-03-04T00:00:00+04:00</lastmod>
+        <lastmod>2014-03-05T00:00:00+04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
         <loc>http://www.brandymint.com/soyuzmash_design_desktop_6.html</loc>
-        <lastmod>2014-03-04T00:00:00+04:00</lastmod>
+        <lastmod>2014-03-05T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://www.brandymint.com/soyuzmash_design_desktop_7.html</loc>
+        <lastmod>2014-03-05T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://www.brandymint.com/soyuzmash_design_desktop_8.html</loc>
+        <lastmod>2014-03-05T00:00:00+04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://www.brandymint.com/soyuzmash_design_desktop_9.html</loc>
+        <lastmod>2014-03-05T00:00:00+04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
         <loc>http://www.brandymint.com/soyuzmash_design_mobile_.html</loc>
-        <lastmod>2014-03-04T00:00:00+04:00</lastmod>
+        <lastmod>2014-03-05T00:00:00+04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
