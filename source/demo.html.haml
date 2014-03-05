@@ -4,5 +4,26 @@
       %a.btn.btn-lg.btn-block.btn-default{href: "#{locals[:next_link]}" }
         skip this
 - else
-  %a.application-window.clickable{ style: "background-image: url(\"images/demo/#{locals[:src]}.png\")", role: 'design-demo-image', href: "#{locals[:next_link]}"}
+  %a.application-window.clickable{ style: "background-image: url(\"images/demo/#{locals[:src]}.png\")", 
+    role: 'design-demo-image', href: "#{locals[:next_link]}", name: '#demo-image'}
+
+.navbar.navbar-inverse.navbar-fixed-bottom
+  .container
+    %ul.nav.navbar-nav.pull-left
+      - if locals[:prev_link].present?
+        %li
+          = link_to locals[:next_link], class: 'btn btn-link btn-lg' do
+            = ficon 'left-open-big'
+      - if locals[:next_link].present?
+        %li
+          = link_to locals[:next_link], class: 'btn btn-link btn-lg' do
+            = ficon 'right-open-big'
+    %ul.nav.navbar-nav.pull-right
+      %li
+        = link_to '../', class: 'btn btn-link btn-lg' do
+          = ficon 'home-1'
+      - if locals[:index].present?
+        %li
+          %a= "#{locals[:index]} / #{locals[:total]}"
+    .clearfix
 

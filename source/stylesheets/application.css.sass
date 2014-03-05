@@ -5,12 +5,12 @@
 @import bootstrap/bootstrap
 @import compass/typography/lists/horizontal-list
 @import compass/css3
-//@import fontello/fontello
-//@import fontello/fontello-codes
+@import fontello/fontello
+@import fontello/fontello-codes
 
 //@import fonts
 //@import scaffolding
-//@import icons
+@import icons
 @import layout
 
 @import utils
@@ -20,6 +20,9 @@ body
   background: $gray
 
 .index-preview
+  max-height: 300px
+  margin-bottom: 2em
+  overflow: hidden
   img
     max-width: 100%
     padding: $grid-gutter-width/2

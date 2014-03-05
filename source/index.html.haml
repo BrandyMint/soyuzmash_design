@@ -15,15 +15,16 @@ body_class: index
     - if l.match(/(png|jpg)/)
       - filename = l.gsub('source/images/demo','').gsub('/','')
       - link = filename.gsub(/\.(png|jpg|pdf)/,'')
-      .index-preview.col-xs-6.col-sm-3
-        = link_to "#{link}.html" do
-          %img{src: "./#{l.gsub('source','')}" }
-          %br
-          -# number = l[/\d{1,2}/] || 0
-          -#= number
+      .col-xs-6.col-sm-3
+        .index-preview
+          = link_to "#{link}.html" do
+            %img{src: "./#{l.gsub('source','')}" }
+            %br
+            -# number = l[/\d{1,2}/] || 0
+            -#= number
 
-      -#= link_to "#{link}.html", class: 'btn btn-lg btn-block btn-link' do
-        = "#{filename}"
+        -#= link_to "#{link}.html", class: 'btn btn-lg btn-block btn-link' do
+          = "#{filename}"
 %hr
 .btn-group.btn-group-vertical.btn-block
   - demo_files.each do |l|
