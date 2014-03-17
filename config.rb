@@ -92,7 +92,8 @@ demo_files.each_with_index do |l, i|
   next_link = "#{prepare_link demo_files[next_link_i]}.html"
   prev_link = "#{prepare_link demo_files[prev_link_i]}.html"
   skip_this = l.match(/png|jpg/) ? false : true
-  proxy "/#{link}.html", "/demo.html", :locals => { :src => link, :index => i, :total => demo_files.count, :prev_link => prev_link, :next_link => next_link, :skip_this => skip_this }
+  filename = l.gsub('source/images/demo','').gsub('/','')
+  proxy "/#{link}.html", "/demo.html", :locals => { filename: filename, :src => link, :index => i, :total => demo_files.count, :prev_link => prev_link, :next_link => next_link, :skip_this => skip_this }
 end
 
 ##############################

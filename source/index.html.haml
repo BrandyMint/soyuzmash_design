@@ -39,5 +39,5 @@ body_class: index
   - demo_files.each do |l|
     - if l.match(/\./) && !l.match(/(png|jpg)/)
       - filename = l.gsub('source/images/demo','').gsub('/','')
-      = link_to "#{filename}", "#{filename}", class: 'btn btn-lg btn-block btn-default'
+      = link_to "#{filename}", "#{l}", class: 'btn btn-lg btn-block btn-default'
 
